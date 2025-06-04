@@ -72,5 +72,5 @@ def summarize(url):
 def display_summary(url):
     summary = summarize(url)
     print(summary)
-    
-display_summary("https://cafeorodinapoli.ca/")
+#url of website you want a summary on  
+display_summary("<URL>")
